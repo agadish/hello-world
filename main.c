@@ -5,6 +5,6 @@ main(
     int argc,
     char * argv[]
 ){
-    (void)printf("hello, world!\n");
+    (void)printf("Hello, World!\n");
     return 0;
 }
